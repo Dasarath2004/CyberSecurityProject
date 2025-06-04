@@ -1,0 +1,7 @@
+keylogger
+logkeys
+hook
+spy
+interceptor
+capture
+sniffer
